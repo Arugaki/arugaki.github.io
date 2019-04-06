@@ -13,7 +13,7 @@ description: Some Cats and Dogs
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://images.unsplash.com/photo-1546672117-f83291ce87a9
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
