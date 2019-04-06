@@ -32,7 +32,7 @@ navigation:
 # Pagination
 paginate: 4
 
-Includes an icon in the footer for each username you enter
+#Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
