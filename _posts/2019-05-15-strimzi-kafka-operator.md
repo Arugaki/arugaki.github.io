@@ -7,5 +7,3 @@ tags:
   - Kafka
 
 ---
-
-# Strimzi Kafka Operator In Openshift
