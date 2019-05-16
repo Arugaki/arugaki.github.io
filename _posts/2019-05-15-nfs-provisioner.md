@@ -7,7 +7,7 @@ tags:
 
 ---
 
-在 openshift 中部署nfs provisioner 与 stoageclass
+在 openshift 中部署 nfs provisioner 与 stoageclass
 
 ### 主机列表
 
